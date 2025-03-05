@@ -1,4 +1,4 @@
-# Angular Homes App - A sample web application that connects to the backend.
+# Angular Homes App - A simple web application that shows list of houses served via API.
 - Install Angular if you don't have it installed. This application is using Angular 18+
 	`npm install -g @angular/cli`
 
