@@ -15,7 +15,7 @@
     `ng serve`
 	
 	
---To build Prod artifact run the following command. This created a zip file contains the artifact that can be deployed in any prod web server.
+-To build Prod artifact run the following command. This created a zip file contains the artifact that can be deployed in any prod web server.
    `npm run build:prod:zip'	
 	
 - If you don't have a spring boot or any other microservice app that hosts the APIs, you can access the API data from db.json file using local json server.
